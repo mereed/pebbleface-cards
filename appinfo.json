@@ -1,0 +1,86 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_LOCATION": 0,
+        "KEY_TEMPERATURE": 2,
+        "KEY_UPDATE": 999
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Chris Lewis",
+    "longName": "Cards",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/card.png",
+                "name": "CARD",
+                "type": "png"
+            },
+            {
+                "file": "images/thunder.png",
+                "name": "THUNDER",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_night.png",
+                "name": "WIND_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/wind.png",
+                "name": "WIND",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud_night.png",
+                "name": "CLOUD_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/moon.png",
+                "name": "MOON",
+                "type": "png"
+            },
+            {
+                "file": "images/rain.png",
+                "name": "RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud.png",
+                "name": "CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/sun.png",
+                "name": "SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/unknown.png",
+                "name": "UNKNOWN",
+                "type": "png"
+            },
+            {
+                "file": "images/bt.png",
+                "name": "BT",
+                "type": "png"
+            },
+            {
+                "file": "images/battery.png",
+                "name": "BATTERY",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Cards",
+    "uuid": "6cf63859-5f22-4c3a-9a76-e5d9db3f5ac9",
+    "versionCode": 2,
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": true
+    }
+}
